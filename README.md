@@ -41,5 +41,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to customize this README template according to your project's specifics. Providing clear and concise information will help users understand and implement the UART Communication Protocol effectively.
 ```
-
-Replace placeholders like `uart_logo.png` and others with your actual details. You can also expand the README by adding sections like "Advanced Usage," "Troubleshooting," "References," or "Examples," depending on the complexity and goals of your UART Communication Protocol project.
